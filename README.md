@@ -2,6 +2,8 @@
 
 Credit to https://github.com/robwiss/diy_air_purifier for the original design. 
 
+https://www.youtube.com/watch?v=Ird0-orsSGM
+
 This is a UK Version
 
 <b>Materials</b>
@@ -38,7 +40,7 @@ This is a UK Version
   </tr>
   <tr>
     <td>Cathedral A1 Foam Board - Black (Pack of 10)</td>
-    <td>£37.93/td>
+    <td>£37.93</td>
     <td>https://www.amazon.co.uk/TERF%C2%AE-Black-Washer-Thickness-Washers/dp/B0957GVDCD</td>
   </tr>
   <tr>
